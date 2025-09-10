@@ -3,7 +3,7 @@ A collection of Linux commands and configurations for managing system authorizat
 
 
 users/user-management.md
-# To create a new userr
+# Some basics but useful configurations
 
 ```bash
 sudo adduser username
